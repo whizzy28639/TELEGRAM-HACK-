@@ -34,4 +34,6 @@ https://t.me/demon_10808
 
      cd TELEGRAM-HACK-
 
-     python 
+     python bigwhizzy.py
+
+     
