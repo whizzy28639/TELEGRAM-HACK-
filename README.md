@@ -14,30 +14,34 @@
 
 TRICK BY ✰𝐓𝐰𝐢𝐧𖦹🅢︎🅞︎🅤︎🅛︎ꨄ
 
-```python
-print("FOLLOW OUR GROUP")
-```
+#### FOLLOW OUR GROUP
 [𝐁・𝐖・𝐓](https://t.me/aiabowj)
 
-```python
-print("FOLLOW OUR GROUP")
-```
+#### FOLLOW OUR GROUP
 [𝐁・𝐖・𝐓 GTOUP](https://t.me/demon_10808)
 
 ### HOW TO HOST ON TERMUX
 
-    pkg update -y
-
-    pkg upgrade -y
-
-    pkg install python -y
-
-    pkg install git -y
-
-     https://github.com/whizzy28639/TELEGRAM-HACK-.git
-
-     cd TELEGRAM-HACK-
-
-     python bigwhizzy.py
+```python
+pkg update -y
+```
+```python
+pkg upgrade -y
+```
+```python
+pkg install python -y
+```
+```python
+pkg install git -y
+```
+```python
+git clone https://github.com/whizzy28639/TELEGRAM-HACK-.git
+```
+```python
+cd TELEGRAM-HACK-
+```
+```python
+python bigwhizzy.py
+```
 
      
