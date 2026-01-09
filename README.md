@@ -45,3 +45,10 @@ python bigwhizzy.py
 ```
 
  ---    
+NOTE: THIS TOOLS IS FOR EDUCATIONAL PURPOSE ONLY 
+---
+
+#### CONTACT DEV
+[𝐌𝐑 ᴥ 𝐖𝐇𝐈𝐙𝐙𝐘´༎ຶ𝐑.𝐄.𝐃༎ຶ](http://t.me/BIGWHIZZY011)
+
+---
