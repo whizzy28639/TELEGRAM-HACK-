@@ -14,11 +14,15 @@
 
 TRICK BY ✰𝐓𝐰𝐢𝐧𖦹🅢︎🅞︎🅤︎🅛︎ꨄ
 
-FOLLOW OUR CHANNEL 
-https://t.me/aiabowj
+```python
+print("FOLLOW OUR GROUP")
+```
+[𝐁・𝐖・𝐓](https://t.me/aiabowj)
 
-FOLLOW OUR GROUP 
-https://t.me/demon_10808
+```python
+print("FOLLOW OUR GROUP")
+```
+[𝐁・𝐖・𝐓 GTOUP](https://t.me/demon_10808)
 
 ### HOW TO HOST ON TERMUX
 
